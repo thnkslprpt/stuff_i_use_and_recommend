@@ -12,4 +12,9 @@ I use them several hours a day, every day.
 We move around a lot. We also like to read a lot. Solution: Kindle - with hundreds of books downloaded, and a single charge lasts several weeks.
 I use this every day.
 
+### [Chromebook](https://amzn.to/3c5kNP6)
+Just thinking about the amount of time I wasted installing, updating and generally waiting around for Windows machines over the last 20 years makes me shudder...
+Chromebooks are lightning-fast, simple and secure. With the recent addition of native Linux support, you can now do pretty much anything with them.
+I use the Chromebook for ~99% of my computing use.
+
 Note: some of these items link to Amazon which may provide me with a referral credit.
