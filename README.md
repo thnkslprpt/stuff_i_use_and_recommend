@@ -1,7 +1,7 @@
 # This is a list of items I use and highly recommend.
 
 ### [Nalgene Water Bottle](https://amzn.to/3w2dHCW)
-![img](images/nalgene.jpg | width=100)
+![img](images/nalgene.jpg =250x250)
 These things are literally indestructible. Have had several for years and they have survived countless falls. Also, there is no rubber so very easy and quick to clean/scrub.
 I use these bottles all day, every day.
 
