@@ -22,5 +22,3 @@ Chromebooks are lightning-fast, simple and secure. With the recent addition of n
 I use the Chromebook for ~99% of my computing use.
 
 Note: some of these items link to Amazon which may provide me with a referral credit.  
-
-Cheers!
