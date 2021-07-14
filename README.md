@@ -12,9 +12,6 @@ I use them several hours a day, every day.
 
 ### [Kindle](https://amzn.to/3cXXvcX)
 ![img](images/kindle.jpg)  
-<div style="float: right">
-    ![images/kindle.jpg](http://placehold.it/85x85 "Title")
-</div>
 We move around a lot. We also like to read a lot. Solution: Kindle - with hundreds of books downloaded, and a single charge lasts several weeks.
 I use this every day.  
 
